@@ -1,0 +1,26 @@
+{
+  "name": "mid00.github.io",
+  "version": "1.0.0",
+  "description": "mid00.github.io",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mid00/mid00.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mid00/mid00.github.io/issues"
+  },
+  "homepage": "https://github.com/mid00/mid00.github.io#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.46",
+    "vue": "^3.2.47"
+  }
+}
